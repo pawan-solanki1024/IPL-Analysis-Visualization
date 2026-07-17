@@ -60,7 +60,9 @@ Some of the analyses included in this project are:
 - Venue analysis
 - Highest run scorer
 - Highest wicket taker
-- Most time player of the match 
+- Most time player of the match
+- <img width="4914" height="1654" alt="highest run scorer" src="https://github.com/user-attachments/assets/a1e87265-6da7-485d-9ea9-d263483cec02" />
+
 
 ---
 
